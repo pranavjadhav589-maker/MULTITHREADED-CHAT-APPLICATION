@@ -38,4 +38,6 @@ In conclusion, this Java Multithreaded Chat Application is an effective demonstr
 
 *OUTPUT:
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e4bda819-1361-460c-a089-008e3b12cd2a" />
+
 
